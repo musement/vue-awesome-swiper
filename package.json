@@ -36,9 +36,7 @@
     "minify": true,
     "rootDir": "."
   },
-  "dependencies": {
-    "swiper": "^3.4.2"
-  },
+  "dependencies": {},
   "devDependencies": {
     "babel-core": "^6.24.1",
     "babel-plugin-transform-runtime": "^6.23.0",

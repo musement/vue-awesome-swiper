@@ -14,7 +14,7 @@
 <script>
   var browser = typeof window !== 'undefined'
   if (browser) {
-    window.Swiper = require('swiper')
+    window.Swiper = require('./swiper-custom/js/swiper.custom.min')
   }
   export default {
     name: 'swiper',

@@ -3,7 +3,7 @@
  * @author Surmon.me
  */
 
-var Swiper = require('swiper')
+var Swiper = require('./swiper-custom/js/swiper.custom.min')
 var SwiperComponent = require('./swiper.vue')
 var SlideComponent = require('./slide.vue')
 if (typeof window !== 'undefined') {
