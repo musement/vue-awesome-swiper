@@ -1,5 +1,5 @@
 
-var Swiper = window.Swiper = require('swiper')
+var Swiper = window.Swiper = require('./swiper-custom/js/swiper.custom.min')
 var swiper = {
   install: function(Vue) {
   	var getInstanceName = function(el, binding, vnode) {
